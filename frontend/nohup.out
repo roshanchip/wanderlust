@@ -1,0 +1,39 @@
+
+> frontend@0.0.0 dev
+> vite --host
+
+Port 5173 is in use, trying another one...
+
+  VITE v4.5.0  ready in 544 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: http://10.0.2.15:5174/
+  ➜  Network: http://192.168.56.103:5174/
+
+> frontend@0.0.0 dev
+> vite --host
+
+Port 5173 is in use, trying another one...
+Port 5174 is in use, trying another one...
+
+  VITE v4.5.0  ready in 548 ms
+
+  ➜  Local:   http://localhost:5175/
+  ➜  Network: http://10.0.2.15:5175/
+  ➜  Network: http://192.168.56.103:5175/
+
+> frontend@0.0.0 dev
+> vite --host
+
+Port 5173 is in use, trying another one...
+Port 5174 is in use, trying another one...
+Port 5175 is in use, trying another one...
+
+  VITE v4.5.0  ready in 587 ms
+
+  ➜  Local:   http://localhost:5176/
+  ➜  Network: http://10.0.2.15:5176/
+  ➜  Network: http://192.168.56.103:5176/
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
